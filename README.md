@@ -332,7 +332,7 @@ if (type == YYImageTypePNG) ...
 
 ### CocoaPods
 
-1. 将 cocoapods 更新至最新版本.
+1. 将 cocoapods 更新至最新版本.s
 2. 在 Podfile 中添加 `pod 'YYImage'`。
 3. 执行 `pod install` 或 `pod update`。
 4. 导入 \<YYImage/YYImage.h\>。
